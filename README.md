@@ -53,3 +53,10 @@ and run these commands:
 5. php artisan key:generate
 
 6. php artisan serve
+
+
+access the project to your browser
+
+127.0.0.1:8000
+or 
+localhost:8000

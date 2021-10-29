@@ -10,18 +10,18 @@ locate the root directory of the project
 Create .env file. Copy contents of the .env.example then save  
 or rename the .env.example to .env
 
-- assessment
- -- app
- -- bootstrap
- -- config
- -- database
- -- public
- -- resources
- -- routes
- -- storage
- -- tests
- -- vendor
- -- .env
+-- assessment
+ --- app  
+ --- bootstrap  
+ --- config  
+ --- database  
+ --- public  
+ --- resources  
+ --- routes  
+ --- storage  
+ --- tests  
+ --- vendor  
+ --- .env  
 
 
 Update the .env file with your local database settings

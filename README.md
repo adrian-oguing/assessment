@@ -10,7 +10,7 @@ locate the root directory of the project
 Create .env file. Copy contents of the .env.example then save  
 or rename the .env.example to .env
 
--- assessment
+-- assessment  
  --- app  
  --- bootstrap  
  --- config  
